@@ -1,0 +1,1139 @@
+﻿@article{RN51,
+   author = {Altschul, S. F. and Gish, W. and Miller, W. and Myers, E. W. and Lipman, D. J.},
+   title = {Basic local alignment search tool},
+   journal = {J Mol Biol},
+   volume = {215},
+   number = {3},
+   pages = {403-10},
+   ISSN = {0022-2836 (Print)
+0022-2836 (Linking)},
+   DOI = {10.1016/S0022-2836(05)80360-2},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/2231712},
+   year = {1990},
+   type = {Journal Article}
+}
+
+@article{RN28,
+   author = {Ammons, M. C. and Morrissey, K. and Tripet, B. P. and Van Leuven, J. T. and Han, A. and Lazarus, G. S. and Zenilman, J. M. and Stewart, P. S. and James, G. A. and Copie, V.},
+   title = {Biochemical association of metabolic profile and microbiome in chronic pressure ulcer wounds},
+   journal = {PLoS One},
+   volume = {10},
+   number = {5},
+   pages = {e0126735},
+   ISSN = {1932-6203 (Electronic)
+1932-6203 (Linking)},
+   DOI = {10.1371/journal.pone.0126735},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/25978400},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{RN82,
+   author = {Bolger, A. M. and Lohse, M. and Usadel, B.},
+   title = {Trimmomatic: a flexible trimmer for Illumina sequence data},
+   journal = {Bioinformatics},
+   volume = {30},
+   number = {15},
+   pages = {2114-20},
+   ISSN = {1367-4811 (Electronic)
+1367-4803 (Linking)},
+   DOI = {10.1093/bioinformatics/btu170},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/24695404},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{RN75,
+   author = {Bowler, P. G. and Duerden, B. I. and Armstrong, D. G.},
+   title = {Wound microbiology and associated approaches to wound management},
+   journal = {Clin Microbiol Rev},
+   volume = {14},
+   number = {2},
+   pages = {244-69},
+   ISSN = {0893-8512 (Print)
+0893-8512 (Linking)},
+   DOI = {10.1128/CMR.14.2.244-269.2001},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/11292638},
+   year = {2001},
+   type = {Journal Article}
+}
+
+@article{RN73,
+   author = {Byrd, A. L. and Belkaid, Y. and Segre, J. A.},
+   title = {The human skin microbiome},
+   journal = {Nat Rev Microbiol},
+   volume = {16},
+   number = {3},
+   pages = {143-155},
+   ISSN = {1740-1534 (Electronic)
+1740-1526 (Linking)},
+   DOI = {10.1038/nrmicro.2017.157},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/29332945},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN47,
+   author = {Callahan, B. J. and McMurdie, P. J. and Rosen, M. J. and Han, A. W. and Johnson, A. J. and Holmes, S. P.},
+   title = {DADA2: High-resolution sample inference from Illumina amplicon data},
+   journal = {Nat Methods},
+   volume = {13},
+   number = {7},
+   pages = {581-3},
+   ISSN = {1548-7105 (Electronic)
+1548-7091 (Linking)},
+   DOI = {10.1038/nmeth.3869},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/27214047},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN27,
+   author = {Canesso, M. C. and Vieira, A. T. and Castro, T. B. and Schirmer, B. G. and Cisalpino, D. and Martins, F. S. and Rachid, M. A. and Nicoli, J. R. and Teixeira, M. M. and Barcelos, L. S.},
+   title = {Skin wound healing is accelerated and scarless in the absence of commensal microbiota},
+   journal = {J Immunol},
+   volume = {193},
+   number = {10},
+   pages = {5171-80},
+   ISSN = {1550-6606 (Electronic)
+0022-1767 (Linking)},
+   DOI = {10.4049/jimmunol.1400625},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/25326026},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{RN43,
+   author = {Caporaso, J. G. and Bittinger, K. and Bushman, F. D. and DeSantis, T. Z. and Andersen, G. L. and Knight, R.},
+   title = {PyNAST: a flexible tool for aligning sequences to a template alignment},
+   journal = {Bioinformatics},
+   volume = {26},
+   number = {2},
+   pages = {266-7},
+   ISSN = {1367-4811 (Electronic)
+1367-4803 (Linking)},
+   DOI = {10.1093/bioinformatics/btp636},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/19914921},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{RN81,
+   author = {Caporaso, J. G. and Kuczynski, J. and Stombaugh, J. and Bittinger, K. and Bushman, F. D. and Costello, E. K. and Fierer, N. and Pena, A. G. and Goodrich, J. K. and Gordon, J. I. and Huttley, G. A. and Kelley, S. T. and Knights, D. and Koenig, J. E. and Ley, R. E. and Lozupone, C. A. and McDonald, D. and Muegge, B. D. and Pirrung, M. and Reeder, J. and Sevinsky, J. R. and Turnbaugh, P. J. and Walters, W. A. and Widmann, J. and Yatsunenko, T. and Zaneveld, J. and Knight, R.},
+   title = {QIIME allows analysis of high-throughput community sequencing data},
+   journal = {Nat Methods},
+   volume = {7},
+   number = {5},
+   pages = {335-6},
+   ISSN = {1548-7105 (Electronic)
+1548-7091 (Linking)},
+   DOI = {10.1038/nmeth.f.303},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/20383131},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{RN60,
+   author = {Castelino, M. and Eyre, S. and Moat, J. and Fox, G. and Martin, P. and Ho, P. and Upton, M. and Barton, A.},
+   title = {Optimisation of methods for bacterial skin microbiome investigation: primer selection and comparison of the 454 versus MiSeq platform},
+   journal = {BMC Microbiol},
+   volume = {17},
+   number = {1},
+   pages = {23},
+   ISSN = {1471-2180 (Electronic)
+1471-2180 (Linking)},
+   DOI = {10.1186/s12866-017-0927-4},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/28109256},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN68,
+   author = {Chibani-Chennoufi, S. and Bruttin, A. and Dillmann, M. L. and Brussow, H.},
+   title = {Phage-host interaction: an ecological perspective},
+   journal = {J Bacteriol},
+   volume = {186},
+   number = {12},
+   pages = {3677-86},
+   ISSN = {0021-9193 (Print)
+0021-9193 (Linking)},
+   DOI = {10.1128/JB.186.12.3677-3686.2004},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/15175280},
+   year = {2004},
+   type = {Journal Article}
+}
+
+@article{RN58,
+   author = {Chng, K. R. and Tay, A. S. and Li, C. and Ng, A. H. and Wang, J. and Suri, B. K. and Matta, S. A. and McGovern, N. and Janela, B. and Wong, X. F. and Sio, Y. Y. and Au, B. V. and Wilm, A. and De Sessions, P. F. and Lim, T. C. and Tang, M. B. and Ginhoux, F. and Connolly, J. E. and Lane, E. B. and Chew, F. T. and Common, J. E. and Nagarajan, N.},
+   title = {Whole metagenome profiling reveals skin microbiome-dependent susceptibility to atopic dermatitis flare},
+   journal = {Nat Microbiol},
+   volume = {1},
+   number = {9},
+   pages = {16106},
+   ISSN = {2058-5276 (Electronic)
+2058-5276 (Linking)},
+   DOI = {10.1038/nmicrobiol.2016.106},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/27562258},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN10,
+   author = {Dowd, S. E. and Sun, Y. and Secor, P. R. and Rhoads, D. D. and Wolcott, B. M. and James, G. A. and Wolcott, R. D.},
+   title = {Survey of bacterial diversity in chronic wounds using pyrosequencing, DGGE, and full ribosome shotgun sequencing},
+   journal = {BMC Microbiol},
+   volume = {8},
+   pages = {43},
+   ISSN = {1471-2180 (Electronic)
+1471-2180 (Linking)},
+   DOI = {10.1186/1471-2180-8-43},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/18325110},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{RN70,
+   author = {Eisenhofer, R. and Minich, J. J. and Marotz, C. and Cooper, A. and Knight, R. and Weyrich, L. S.},
+   title = {Contamination in Low Microbial Biomass Microbiome Studies: Issues and Recommendations},
+   journal = {Trends Microbiol},
+   volume = {27},
+   number = {2},
+   pages = {105-117},
+   ISSN = {1878-4380 (Electronic)
+0966-842X (Linking)},
+   DOI = {10.1016/j.tim.2018.11.003},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/30497919},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN64,
+   author = {Ekblom, R. and Wolf, J. B.},
+   title = {A field guide to whole-genome sequencing, assembly and annotation},
+   journal = {Evol Appl},
+   volume = {7},
+   number = {9},
+   pages = {1026-42},
+   ISSN = {1752-4571 (Print)
+1752-4571 (Linking)},
+   DOI = {10.1111/eva.12178},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/25553065},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{RN55,
+   author = {Foulongne, V. and Sauvage, V. and Hebert, C. and Dereure, O. and Cheval, J. and Gouilh, M. A. and Pariente, K. and Segondy, M. and Burguiere, A. and Manuguerra, J. C. and Caro, V. and Eloit, M.},
+   title = {Human skin microbiota: high diversity of DNA viruses identified on the human skin by high throughput sequencing},
+   journal = {PLoS One},
+   volume = {7},
+   number = {6},
+   pages = {e38499},
+   ISSN = {1932-6203 (Electronic)
+1932-6203 (Linking)},
+   DOI = {10.1371/journal.pone.0038499},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/22723863},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{RN9,
+   author = {Gardiner, M. and Vicaretti, M. and Sparks, J. and Bansal, S. and Bush, S. and Liu, M. and Darling, A. and Harry, E. and Burke, C. M.},
+   title = {A longitudinal study of the diabetic skin and wound microbiome},
+   journal = {PeerJ},
+   volume = {5},
+   pages = {e3543},
+   ISSN = {2167-8359 (Print)
+2167-8359 (Linking)},
+   DOI = {10.7717/peerj.3543},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/28740749},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN61,
+   author = {Gerasimidis, K. and Bertz, M. and Quince, C. and Brunner, K. and Bruce, A. and Combet, E. and Calus, S. and Loman, N. and Ijaz, U. Z.},
+   title = {The effect of DNA extraction methodology on gut microbiota research applications},
+   journal = {BMC Res Notes},
+   volume = {9},
+   pages = {365},
+   ISSN = {1756-0500 (Electronic)
+1756-0500 (Linking)},
+   DOI = {10.1186/s13104-016-2171-7},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/27456340},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN52,
+   author = {Gilbert, J. A. and Blaser, M. J. and Caporaso, J. G. and Jansson, J. K. and Lynch, S. V. and Knight, R.},
+   title = {Current understanding of the human microbiome},
+   journal = {Nat Med},
+   volume = {24},
+   number = {4},
+   pages = {392-400},
+   ISSN = {1546-170X (Electronic)
+1078-8956 (Linking)},
+   DOI = {10.1038/nm.4517},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/29634682},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN26,
+   author = {Gjodsbol, K. and Skindersoe, M. E. and Christensen, J. J. and Karlsmark, T. and Jorgensen, B. and Jensen, A. M. and Klein, B. M. and Sonnested, M. K. and Krogfelt, K. A.},
+   title = {No need for biopsies: comparison of three sample techniques for wound microbiota determination},
+   journal = {International Wound Journal},
+   volume = {9},
+   number = {3},
+   pages = {295-302},
+   ISSN = {1742-4801},
+   DOI = {10.1111/j.1742-481X.2011.00883.x},
+   url = {<Go to ISI>://WOS:000303854300011},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{RN36,
+   author = {Grice, E. A. and Kong, H. H. and Conlan, S. and Deming, C. B. and Davis, J. and Young, A. C. and Program, Nisc Comparative Sequencing and Bouffard, G. G. and Blakesley, R. W. and Murray, P. R. and Green, E. D. and Turner, M. L. and Segre, J. A.},
+   title = {Topographical and temporal diversity of the human skin microbiome},
+   journal = {Science},
+   volume = {324},
+   number = {5931},
+   pages = {1190-2},
+   ISSN = {1095-9203 (Electronic)
+0036-8075 (Linking)},
+   DOI = {10.1126/science.1171700},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/19478181},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{RN59,
+   author = {Grice, E. A. and Kong, H. H. and Renaud, G. and Young, A. C. and Program, Nisc Comparative Sequencing and Bouffard, G. G. and Blakesley, R. W. and Wolfsberg, T. G. and Turner, M. L. and Segre, J. A.},
+   title = {A diversity profile of the human skin microbiota},
+   journal = {Genome Res},
+   volume = {18},
+   number = {7},
+   pages = {1043-50},
+   ISSN = {1088-9051 (Print)
+1088-9051 (Linking)},
+   DOI = {10.1101/gr.075549.107},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/18502944},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{RN72,
+   author = {Grice, E. A. and Segre, J. A.},
+   title = {The skin microbiome},
+   journal = {Nat Rev Microbiol},
+   volume = {9},
+   number = {4},
+   pages = {244-53},
+   ISSN = {1740-1534 (Electronic)
+1740-1526 (Linking)},
+   DOI = {10.1038/nrmicro2537},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/21407241},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{RN25,
+   author = {Grice, E. A. and Snitkin, E. S. and Yockey, L. J. and Bermudez, D. M. and Program, Nisc Comparative Sequencing and Liechty, K. W. and Segre, J. A.},
+   title = {Longitudinal shift in diabetic wound microbiota correlates with prolonged skin defense response},
+   journal = {Proc Natl Acad Sci U S A},
+   volume = {107},
+   number = {33},
+   pages = {14799-804},
+   ISSN = {1091-6490 (Electronic)
+0027-8424 (Linking)},
+   DOI = {10.1073/pnas.1004204107},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/20668241},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{RN24,
+   author = {Halstead, F. D. and Lee, K. C. and Kwei, J. and Dretzke, J. and Oppenheim, B. A. and Moiemen, N. S.},
+   title = {A systematic review of quantitative burn wound microbiology in the management of burns patients},
+   journal = {Burns},
+   volume = {44},
+   number = {1},
+   pages = {39-56},
+   ISSN = {0305-4179},
+   DOI = {10.1016/j.burns.2017.06.008},
+   url = {<Go to ISI>://WOS:000422665600006},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN31,
+   author = {Han, G. and Ceilley, R.},
+   title = {Chronic Wound Healing: A Review of Current Management and Treatments},
+   journal = {Adv Ther},
+   volume = {34},
+   number = {3},
+   pages = {599-610},
+   ISSN = {1865-8652 (Electronic)
+0741-238X (Linking)},
+   DOI = {10.1007/s12325-017-0478-y},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/28108895},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN56,
+   author = {Hannigan, G. D. and Meisel, J. S. and Tyldsley, A. S. and Zheng, Q. and Hodkinson, B. P. and SanMiguel, A. J. and Minot, S. and Bushman, F. D. and Grice, E. A.},
+   title = {The human skin double-stranded DNA virome: topographical and temporal diversity, genetic enrichment, and dynamic associations with the host microbiome},
+   journal = {MBio},
+   volume = {6},
+   number = {5},
+   pages = {e01578-15},
+   ISSN = {2150-7511 (Electronic)},
+   DOI = {10.1128/mBio.01578-15},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/26489866},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{RN23,
+   author = {Holmes, C. J. and Plichta, J. K. and Gamelli, R. L. and Radek, K. A.},
+   title = {Dynamic Role of Host Stress Responses in Modulating the Cutaneous Microbiome: Implications for Wound Healing and Infection},
+   journal = {Adv Wound Care (New Rochelle)},
+   volume = {4},
+   number = {1},
+   pages = {24-37},
+   ISSN = {2162-1918 (Print)
+2162-1918 (Linking)},
+   DOI = {10.1089/wound.2014.0546},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/25566412},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{RN30,
+   author = {Hoppe, I. C. and Granick, M. S.},
+   title = {Debridement of chronic wounds: a qualitative systematic review of randomized controlled trials},
+   journal = {Clin Plast Surg},
+   volume = {39},
+   number = {3},
+   pages = {221-8},
+   ISSN = {1558-0504 (Electronic)
+0094-1298 (Linking)},
+   DOI = {10.1016/j.cps.2012.04.001},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/22732371},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{RN50,
+   author = {James, G. A. and Ge Zhao, A. and Usui, M. and Underwood, R. A. and Nguyen, H. and Beyenal, H. and deLancey Pulcini, E. and Agostinho Hunt, A. and Bernstein, H. C. and Fleckman, P. and Olerud, J. and Williamson, K. S. and Franklin, M. J. and Stewart, P. S.},
+   title = {Microsensor and transcriptomic signatures of oxygen depletion in biofilms associated with chronic wounds},
+   journal = {Wound Repair Regen},
+   volume = {24},
+   number = {2},
+   pages = {373-83},
+   ISSN = {1524-475X (Electronic)
+1067-1927 (Linking)},
+   DOI = {10.1111/wrr.12401},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/26748963},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN69,
+   author = {Jeong, H. and Kim, H. J. and Lee, S. J.},
+   title = {Complete Genome Sequence of Escherichia coli Strain BL21},
+   journal = {Genome Announc},
+   volume = {3},
+   number = {2},
+   ISSN = {2169-8287 (Print)},
+   DOI = {10.1128/genomeA.00134-15},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/25792055},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{RN22,
+   author = {Jneid, J. and Cassir, N. and Schuldiner, S. and Jourdan, N. and Sotto, A. and Lavigne, J. P. and La Scola, B.},
+   title = {Exploring the Microbiota of Diabetic Foot Infections With Culturomics},
+   journal = {Front Cell Infect Microbiol},
+   volume = {8},
+   pages = {282},
+   ISSN = {2235-2988 (Electronic)
+2235-2988 (Linking)},
+   DOI = {10.3389/fcimb.2018.00282},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/30155447},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN21,
+   author = {Johnson, T. R. and Gomez, B. I. and McIntyre, M. K. and Dubick, M. A. and Christy, R. J. and Nicholson, S. E. and Burmeister, D. M.},
+   title = {The Cutaneous Microbiome and Wounds: New Molecular Targets to Promote Wound Healing},
+   journal = {Int J Mol Sci},
+   volume = {19},
+   number = {9},
+   ISSN = {1422-0067 (Electronic)
+1422-0067 (Linking)},
+   DOI = {10.3390/ijms19092699},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/30208569},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN20,
+   author = {Kalan, L. and Grice, E. A.},
+   title = {Fungi in the Wound Microbiome},
+   journal = {Adv Wound Care (New Rochelle)},
+   volume = {7},
+   number = {7},
+   pages = {247-255},
+   ISSN = {2162-1918 (Print)
+2162-1918 (Linking)},
+   DOI = {10.1089/wound.2017.0756},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/29984114},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN19,
+   author = {Kalan, L. and Loesche, M. and Hodkinson, B. P. and Heilmann, K. and Ruthel, G. and Gardner, S. E. and Grice, E. A.},
+   title = {Redefining the Chronic-Wound Microbiome: Fungal Communities Are Prevalent, Dynamic, and Associated with Delayed Healing},
+   journal = {MBio},
+   volume = {7},
+   number = {5},
+   ISSN = {2150-7511 (Electronic)},
+   DOI = {10.1128/mBio.01058-16},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/27601572},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN8,
+   author = {Kalan, L. R. and Meisel, J. S. and Loesche, M. A. and Horwinski, J. and Soaita, I. and Chen, X. and Uberoi, A. and Gardner, S. E. and Grice, E. A.},
+   title = {Strain- and Species-Level Variation in the Microbiome of Diabetic Wounds Is Associated with Clinical Outcomes and Therapeutic Efficacy},
+   journal = {Cell Host Microbe},
+   volume = {25},
+   number = {5},
+   pages = {641-655 e5},
+   ISSN = {1934-6069 (Electronic)
+1931-3128 (Linking)},
+   DOI = {10.1016/j.chom.2019.03.006},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/31006638},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN66,
+   author = {Kleiner, M. and Hooper, L. V. and Duerkop, B. A.},
+   title = {Evaluation of methods to purify virus-like particles for metagenomic sequencing of intestinal viromes},
+   journal = {BMC Genomics},
+   volume = {16},
+   pages = {7},
+   ISSN = {1471-2164 (Electronic)
+1471-2164 (Linking)},
+   DOI = {10.1186/s12864-014-1207-4},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/25608871},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{RN57,
+   author = {Kong, H. H.},
+   title = {Details Matter: Designing Skin Microbiome Studies},
+   journal = {J Invest Dermatol},
+   volume = {136},
+   number = {5},
+   pages = {900-902},
+   ISSN = {1523-1747 (Electronic)
+0022-202X (Linking)},
+   DOI = {10.1016/j.jid.2016.03.004},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/27107375},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN79,
+   author = {Krishnamurthy, S. R. and Wang, D.},
+   title = {Origins and challenges of viral dark matter},
+   journal = {Virus Res},
+   volume = {239},
+   pages = {136-142},
+   ISSN = {1872-7492 (Electronic)
+0168-1702 (Linking)},
+   DOI = {10.1016/j.virusres.2017.02.002},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/28192164},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN85,
+   author = {Langmead, B. and Salzberg, S. L.},
+   title = {Fast gapped-read alignment with Bowtie 2},
+   journal = {Nat Methods},
+   volume = {9},
+   number = {4},
+   pages = {357-9},
+   ISSN = {1548-7105 (Electronic)
+1548-7091 (Linking)},
+   DOI = {10.1038/nmeth.1923},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/22388286},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{RN5,
+   author = {Leaper, D. and Assadian, O. and Edmiston, C. E.},
+   title = {Approach to chronic wound infections},
+   journal = {Br J Dermatol},
+   volume = {173},
+   number = {2},
+   pages = {351-8},
+   ISSN = {1365-2133 (Electronic)
+0007-0963 (Linking)},
+   DOI = {10.1111/bjd.13677},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/25772951},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{RN33,
+   author = {Lee, J. and Sison-Mangus, M.},
+   title = {A Bayesian Semiparametric Regression Model for Joint Analysis of Microbiome Data},
+   journal = {Front Microbiol},
+   volume = {9},
+   pages = {522},
+   ISSN = {1664-302X (Print)
+1664-302X (Linking)},
+   DOI = {10.3389/fmicb.2018.00522},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/29632519},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN37,
+   author = {Levine, N. S. and Lindberg, R. B. and Mason, A. D., Jr. and Pruitt, B. A., Jr.},
+   title = {The quantitative swab culture and smear: A quick, simple method for determining the number of viable aerobic bacteria on open wounds},
+   journal = {J Trauma},
+   volume = {16},
+   number = {2},
+   pages = {89-94},
+   ISSN = {0022-5282 (Print)
+0022-5282 (Linking)},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/1255833},
+   year = {1976},
+   type = {Journal Article}
+}
+
+@article{RN18,
+   author = {Liu, S. H. and Huang, Y. C. and Chen, L. Y. and Yu, S. C. and Yu, H. Y. and Chuang, S. S.},
+   title = {The skin microbiome of wound scars and unaffected skin in patients with moderate to severe burns in the subacute phase},
+   journal = {Wound Repair Regen},
+   volume = {26},
+   number = {2},
+   pages = {182-191},
+   ISSN = {1524-475X (Electronic)
+1067-1927 (Linking)},
+   DOI = {10.1111/wrr.12632},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/29663582},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN53,
+   author = {Lloyd-Price, J. and Abu-Ali, G. and Huttenhower, C.},
+   title = {The healthy human microbiome},
+   journal = {Genome Med},
+   volume = {8},
+   number = {1},
+   pages = {51},
+   ISSN = {1756-994X (Electronic)
+1756-994X (Linking)},
+   DOI = {10.1186/s13073-016-0307-y},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/27122046},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN7,
+   author = {Loesche, M. and Gardner, S. E. and Kalan, L. and Horwinski, J. and Zheng, Q. and Hodkinson, B. P. and Tyldsley, A. S. and Franciscus, C. L. and Hillis, S. L. and Mehta, S. and Margolis, D. J. and Grice, E. A.},
+   title = {Temporal Stability in Chronic Wound Microbiota Is Associated With Poor Healing},
+   journal = {J Invest Dermatol},
+   volume = {137},
+   number = {1},
+   pages = {237-244},
+   ISSN = {1523-1747 (Electronic)
+0022-202X (Linking)},
+   DOI = {10.1016/j.jid.2016.08.009},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/27566400},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN39,
+   author = {Londahl, M. and Katzman, P. and Nilsson, A. and Hammarlund, C.},
+   title = {Hyperbaric oxygen therapy facilitates healing of chronic foot ulcers in patients with diabetes},
+   journal = {Diabetes Care},
+   volume = {33},
+   number = {5},
+   pages = {998-1003},
+   ISSN = {1935-5548 (Electronic)
+0149-5992 (Linking)},
+   DOI = {10.2337/dc09-1754},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/20427683},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{RN32,
+   author = {Love, M. I. and Huber, W. and Anders, S.},
+   title = {Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2},
+   journal = {Genome Biol},
+   volume = {15},
+   number = {12},
+   pages = {550},
+   ISSN = {1474-760X (Electronic)
+1474-7596 (Linking)},
+   DOI = {10.1186/s13059-014-0550-8},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/25516281},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{RN54,
+   author = {Manrique, P. and Bolduc, B. and Walk, S. T. and van der Oost, J. and de Vos, W. M. and Young, M. J.},
+   title = {Healthy human gut phageome},
+   journal = {Proc Natl Acad Sci U S A},
+   volume = {113},
+   number = {37},
+   pages = {10400-5},
+   ISSN = {1091-6490 (Electronic)
+0027-8424 (Linking)},
+   DOI = {10.1073/pnas.1601060113},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/27573828},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN3,
+   author = {Martinengo, L. and Olsson, M. and Bajpai, R. and Soljak, M. and Upton, Z. and Schmidtchen, A. and Car, J. and Jarbrink, K.},
+   title = {Prevalence of chronic wounds in the general population: systematic review and meta-analysis of observational studies},
+   journal = {Ann Epidemiol},
+   volume = {29},
+   pages = {8-15},
+   ISSN = {1873-2585 (Electronic)
+1047-2797 (Linking)},
+   DOI = {10.1016/j.annepidem.2018.10.005},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/30497932},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN44,
+   author = {McDonald, D. and Clemente, J. C. and Kuczynski, J. and Rideout, J. R. and Stombaugh, J. and Wendel, D. and Wilke, A. and Huse, S. and Hufnagle, J. and Meyer, F. and Knight, R. and Caporaso, J. G.},
+   title = {The Biological Observation Matrix (BIOM) format or: how I learned to stop worrying and love the ome-ome},
+   journal = {Gigascience},
+   volume = {1},
+   number = {1},
+   pages = {7},
+   ISSN = {2047-217X (Print)
+2047-217X (Linking)},
+   DOI = {10.1186/2047-217X-1-7},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/23587224},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{RN45,
+   author = {McMurdie, P. J. and Holmes, S.},
+   title = {phyloseq: an R package for reproducible interactive analysis and graphics of microbiome census data},
+   journal = {PLoS One},
+   volume = {8},
+   number = {4},
+   pages = {e61217},
+   ISSN = {1932-6203 (Electronic)
+1932-6203 (Linking)},
+   DOI = {10.1371/journal.pone.0061217},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/23630581},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{RN17,
+   author = {Misic, A. M. and Gardner, S. E. and Grice, E. A.},
+   title = {The Wound Microbiome: Modern Approaches to Examining the Role of Microorganisms in Impaired Chronic Wound Healing},
+   journal = {Adv Wound Care (New Rochelle)},
+   volume = {3},
+   number = {7},
+   pages = {502-510},
+   ISSN = {2162-1918 (Print)
+2162-1918 (Linking)},
+   DOI = {10.1089/wound.2012.0397},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/25032070},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{RN49,
+   author = {Morgan, S. J. and Lippman, S. I. and Bautista, G. E. and Harrison, J. J. and Harding, C. L. and Gallagher, L. A. and Cheng, A. C. and Siehnel, R. and Ravishankar, S. and Usui, M. L. and Olerud, J. E. and Fleckman, P. and Wolcott, R. D. and Manoil, C. and Singh, P. K.},
+   title = {Bacterial fitness in chronic wounds appears to be mediated by the capacity for high-density growth, not virulence or biofilm functions},
+   journal = {PLoS Pathog},
+   volume = {15},
+   number = {3},
+   pages = {e1007511},
+   ISSN = {1553-7374 (Electronic)
+1553-7366 (Linking)},
+   DOI = {10.1371/journal.ppat.1007511},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/30893371},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN2,
+   author = {Olsson, M. and Jarbrink, K. and Divakar, U. and Bajpai, R. and Upton, Z. and Schmidtchen, A. and Car, J.},
+   title = {The humanistic and economic burden of chronic wounds: A systematic review},
+   journal = {Wound Repair Regen},
+   volume = {27},
+   number = {1},
+   pages = {114-125},
+   ISSN = {1524-475X (Electronic)
+1067-1927 (Linking)},
+   DOI = {10.1111/wrr.12683},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/30362646},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN78,
+   author = {Paez-Espino, D. and Chen, I. A. and Palaniappan, K. and Ratner, A. and Chu, K. and Szeto, E. and Pillay, M. and Huang, J. and Markowitz, V. M. and Nielsen, T. and Huntemann, M. and TB, K. Reddy and Pavlopoulos, G. A. and Sullivan, M. B. and Campbell, B. J. and Chen, F. and McMahon, K. and Hallam, S. J. and Denef, V. and Cavicchioli, R. and Caffrey, S. M. and Streit, W. R. and Webster, J. and Handley, K. M. and Salekdeh, G. H. and Tsesmetzis, N. and Setubal, J. C. and Pope, P. B. and Liu, W. T. and Rivers, A. R. and Ivanova, N. N. and Kyrpides, N. C.},
+   title = {IMG/VR: a database of cultured and uncultured DNA Viruses and retroviruses},
+   journal = {Nucleic Acids Res},
+   volume = {45},
+   number = {D1},
+   pages = {D457-D465},
+   ISSN = {1362-4962 (Electronic)
+0305-1048 (Linking)},
+   DOI = {10.1093/nar/gkw1030},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/27799466},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN16,
+   author = {Phalak, P. and Henson, M. A.},
+   title = {Metabolic modelling of chronic wound microbiota predicts mutualistic interactions that drive community composition},
+   journal = {J Appl Microbiol},
+   ISSN = {1365-2672 (Electronic)
+1364-5072 (Linking)},
+   DOI = {10.1111/jam.14421},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/31436369},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN15,
+   author = {Price, L. B. and Liu, C. M. and Frankel, Y. M. and Melendez, J. H. and Aziz, M. and Buchhagen, J. and Contente-Cuomo, T. and Engelthaler, D. M. and Keim, P. S. and Ravel, J. and Lazarus, G. S. and Zenilman, J. M.},
+   title = {Macroscale spatial variation in chronic wound microbiota: a cross-sectional study},
+   journal = {Wound Repair Regen},
+   volume = {19},
+   number = {1},
+   pages = {80-8},
+   ISSN = {1524-475X (Electronic)
+1067-1927 (Linking)},
+   DOI = {10.1111/j.1524-475X.2010.00628.x},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/20946140},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{RN14,
+   author = {Price, L. B. and Liu, C. M. and Melendez, J. H. and Frankel, Y. M. and Engelthaler, D. and Aziz, M. and Bowers, J. and Rattray, R. and Ravel, J. and Kingsley, C. and Keim, P. S. and Lazarus, G. S. and Zenilman, J. M.},
+   title = {Community analysis of chronic wound bacteria using 16S rRNA gene-based pyrosequencing: impact of diabetes and antibiotics on chronic wound microbiota},
+   journal = {PLoS One},
+   volume = {4},
+   number = {7},
+   pages = {e6462},
+   ISSN = {1932-6203 (Electronic)
+1932-6203 (Linking)},
+   DOI = {10.1371/journal.pone.0006462},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/19649281},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{RN35,
+   author = {Quast, C. and Pruesse, E. and Yilmaz, P. and Gerken, J. and Schweer, T. and Yarza, P. and Peplies, J. and Glockner, F. O.},
+   title = {The SILVA ribosomal RNA gene database project: improved data processing and web-based tools},
+   journal = {Nucleic Acids Res},
+   volume = {41},
+   number = {Database issue},
+   pages = {D590-6},
+   ISSN = {1362-4962 (Electronic)
+0305-1048 (Linking)},
+   DOI = {10.1093/nar/gks1219},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/23193283},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{RN13,
+   author = {Rahim, K. and Saleha, S. and Zhu, X. D. and Huo, L. and Basit, A. and Franco, O. L.},
+   title = {Bacterial Contribution in Chronicity of Wounds},
+   journal = {Microbial Ecology},
+   volume = {73},
+   number = {3},
+   pages = {710-721},
+   ISSN = {0095-3628},
+   DOI = {10.1007/s00248-016-0867-9},
+   url = {<Go to ISI>://WOS:000397940000019},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN63,
+   author = {Reyes, A. and Semenkovich, N. P. and Whiteson, K. and Rohwer, F. and Gordon, J. I.},
+   title = {Going viral: next-generation sequencing applied to phage populations in the human gut},
+   journal = {Nat Rev Microbiol},
+   volume = {10},
+   number = {9},
+   pages = {607-17},
+   ISSN = {1740-1534 (Electronic)
+1740-1526 (Linking)},
+   DOI = {10.1038/nrmicro2853},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/22864264},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{RN38,
+   author = {Rodrigues, M. and Kosaric, N. and Bonham, C. A. and Gurtner, G. C.},
+   title = {Wound Healing: A Cellular Perspective},
+   journal = {Physiological Reviews},
+   volume = {99},
+   number = {1},
+   pages = {665-706},
+   ISSN = {0031-9333},
+   DOI = {10.1152/physrev.00067.2017},
+   url = {<Go to ISI>://WOS:000455899500013},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN80,
+   author = {Roux, S. and Hallam, S. J. and Woyke, T. and Sullivan, M. B.},
+   title = {Viral dark matter and virus-host interactions resolved from publicly available microbial genomes},
+   journal = {Elife},
+   volume = {4},
+   ISSN = {2050-084X (Electronic)
+2050-084X (Linking)},
+   DOI = {10.7554/eLife.08490},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/26200428},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{RN1,
+   author = {Saha, R. and Verbanic, S. and Chen, I. A.},
+   title = {Lipid vesicles chaperone an encapsulated RNA aptamer},
+   journal = {Nat Commun},
+   volume = {9},
+   number = {1},
+   pages = {2313},
+   ISSN = {2041-1723 (Electronic)
+2041-1723 (Linking)},
+   DOI = {10.1038/s41467-018-04783-8},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/29899431},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN71,
+   author = {Salter, S. J. and Cox, M. J. and Turek, E. M. and Calus, S. T. and Cookson, W. O. and Moffatt, M. F. and Turner, P. and Parkhill, J. and Loman, N. J. and Walker, A. W.},
+   title = {Reagent and laboratory contamination can critically impact sequence-based microbiome analyses},
+   journal = {BMC Biol},
+   volume = {12},
+   pages = {87},
+   ISSN = {1741-7007 (Electronic)
+1741-7007 (Linking)},
+   DOI = {10.1186/s12915-014-0087-z},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/25387460},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{RN12,
+   author = {Sanchez-Sanchez, M. and Cruz-Pulido, W. L. and Bladinieres-Camara, E. and Alcala-Duran, R. and Rivera-Sanchez, G. and Bocanegra-Garcia, V.},
+   title = {Bacterial Prevalence and Antibiotic Resistance in Clinical Isolates of Diabetic Foot Ulcers in the Northeast of Tamaulipas, Mexico},
+   journal = {Int J Low Extrem Wounds},
+   volume = {16},
+   number = {2},
+   pages = {129-134},
+   ISSN = {1552-6941 (Electronic)
+1534-7346 (Linking)},
+   DOI = {10.1177/1534734617705254},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/28682727},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN11,
+   author = {Scales, B. S. and Huffnagle, G. B.},
+   title = {The microbiome in wound repair and tissue fibrosis},
+   journal = {J Pathol},
+   volume = {229},
+   number = {2},
+   pages = {323-31},
+   ISSN = {1096-9896 (Electronic)
+0022-3417 (Linking)},
+   DOI = {10.1002/path.4118},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/23042513},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{RN77,
+   author = {Secor, P. R. and Michaels, L. A. and Smigiel, K. S. and Rohani, M. G. and Jennings, L. K. and Hisert, K. B. and Arrigoni, A. and Braun, K. R. and Birkland, T. P. and Lai, Y. and Hallstrand, T. S. and Bollyky, P. L. and Singh, P. K. and Parks, W. C.},
+   title = {Filamentous Bacteriophage Produced by Pseudomonas aeruginosa Alters the Inflammatory Response and Promotes Noninvasive Infection In Vivo},
+   journal = {Infect Immun},
+   volume = {85},
+   number = {1},
+   ISSN = {1098-5522 (Electronic)
+0019-9567 (Linking)},
+   DOI = {10.1128/IAI.00648-16},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/27795361},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN4,
+   author = {Sen, C. K. and Gordillo, G. M. and Roy, S. and Kirsner, R. and Lambert, L. and Hunt, T. K. and Gottrup, F. and Gurtner, G. C. and Longaker, M. T.},
+   title = {Human skin wounds: a major and snowballing threat to public health and the economy},
+   journal = {Wound Repair Regen},
+   volume = {17},
+   number = {6},
+   pages = {763-71},
+   ISSN = {1524-475X (Electronic)
+1067-1927 (Linking)},
+   DOI = {10.1111/j.1524-475X.2009.00543.x},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/19903300},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{RN67,
+   author = {Thurber, R. V. and Haynes, M. and Breitbart, M. and Wegley, L. and Rohwer, F.},
+   title = {Laboratory procedures to generate viral metagenomes},
+   journal = {Nat Protoc},
+   volume = {4},
+   number = {4},
+   pages = {470-83},
+   ISSN = {1750-2799 (Electronic)
+1750-2799 (Linking)},
+   DOI = {10.1038/nprot.2009.10},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/19300441},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{RN41,
+   author = {Verbanic, S. and Kim, C. Y. and Deacon, J. M. and Chen, I. A.},
+   title = {Improved single-swab sample preparation for recovering bacterial and phage DNA from human skin and wound microbiomes},
+   journal = {BMC Microbiol},
+   volume = {19},
+   number = {1},
+   pages = {214},
+   ISSN = {1471-2180 (Electronic)
+1471-2180 (Linking)},
+   DOI = {10.1186/s12866-019-1586-4},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/31488062},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN46,
+   author = {Wickham, H.},
+   title = {ggplot2: Elegant Graphics for Data Analysis},
+   journal = {Ggplot2: Elegant Graphics for Data Analysis},
+   pages = {1-212},
+   DOI = {10.1007/978-0-387-98141-3},
+   url = {<Go to ISI>://WOS:000269437100014},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{RN48,
+   author = {Wilcox, J. R. and Carter, M. J. and Covington, S.},
+   title = {Frequency of debridements and time to heal: a retrospective cohort study of 312 744 wounds},
+   journal = {JAMA Dermatol},
+   volume = {149},
+   number = {9},
+   pages = {1050-8},
+   ISSN = {2168-6084 (Electronic)
+2168-6068 (Linking)},
+   DOI = {10.1001/jamadermatol.2013.4960},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/23884238},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{RN29,
+   author = {Wolcott, R. and Costerton, J. W. and Raoult, D. and Cutler, S. J.},
+   title = {The polymicrobial nature of biofilm infection},
+   journal = {Clin Microbiol Infect},
+   volume = {19},
+   number = {2},
+   pages = {107-12},
+   ISSN = {1469-0691 (Electronic)
+1198-743X (Linking)},
+   DOI = {10.1111/j.1469-0691.2012.04001.x},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/22925473},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{RN6,
+   author = {Wolcott, R. D. and Hanson, J. D. and Rees, E. J. and Koenig, L. D. and Phillips, C. D. and Wolcott, R. A. and Cox, S. B. and White, J. S.},
+   title = {Analysis of the chronic wound microbiota of 2,963 patients by 16S rDNA pyrosequencing},
+   journal = {Wound Repair Regen},
+   volume = {24},
+   number = {1},
+   pages = {163-74},
+   ISSN = {1524-475X (Electronic)
+1067-1927 (Linking)},
+   DOI = {10.1111/wrr.12370},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/26463872},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN40,
+   author = {Yoon, J. W. and Wanderman, N. R. and Kerezoudis, P. and Alvi, M. A. and De Biase, G. and Akinduro, O. O. and Berbari, E. F. and Bydon, M. and Freedman, B. A.},
+   title = {Enterobacter Infection after Spine Surgery: An Institutional Experience},
+   journal = {World Neurosurg},
+   volume = {123},
+   pages = {e330-e337},
+   ISSN = {1878-8769 (Electronic)
+1878-8750 (Linking)},
+   DOI = {10.1016/j.wneu.2018.11.169},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/30500574},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN62,
+   author = {Yuan, S. and Cohen, D. B. and Ravel, J. and Abdo, Z. and Forney, L. J.},
+   title = {Evaluation of methods for the extraction and purification of DNA from the human microbiome},
+   journal = {PLoS One},
+   volume = {7},
+   number = {3},
+   pages = {e33865},
+   ISSN = {1932-6203 (Electronic)
+1932-6203 (Linking)},
+   DOI = {10.1371/journal.pone.0033865},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/22457796},
+   year = {2012},
+   type = {Journal Article}
+}
+
