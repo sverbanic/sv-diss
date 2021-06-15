@@ -1,2 +1,2 @@
 # sv_diss
-LaTeX files and directories used in my doctoral dissertation
+LaTeX and figure files used in my dissertation
